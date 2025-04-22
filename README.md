@@ -23,5 +23,7 @@ This project is meant for practice and learning, where I wanted to apply **respo
 ## 📸 Screenshots
 
 ![Screenshot](./screenshot01.PNG)
+***
 ![Screenshot](./screenshot02.PNG)
+***
 ![Screenshot](./screenshot03.PNG)
