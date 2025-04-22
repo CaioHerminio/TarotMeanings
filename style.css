@@ -1,0 +1,83 @@
+h1{
+    color: #d3a93f;
+    font-family: "UnifrakturMaguntia", cursive;
+    margin-bottom: 10px;
+}
+
+h2, h3, h4, p, ul, li{
+    font-family: "Crimson Text", serif;
+    
+}
+
+h4{
+    text-align: center;
+}
+
+.keycontrast{
+    color:#aab1cf;
+}
+
+.meanings{
+    color: #efcd77;
+}
+
+strong{
+    color: #9e7bb5;
+}
+
+h2, h4{
+    color: #9e7bb5;
+}
+
+h3{
+    color: #aab1cf;
+}
+
+p, ul{
+    color: #d6d1e0;
+}
+
+body{
+    background-color: #0e0a1f;
+    margin-left: 50px;
+}
+
+
+.left, .right {
+    display: inline-block;
+    width: 45%;
+    text-align: justify;
+    margin: 10px;
+}
+
+.left img, .right img{
+    width: 25%;
+}
+
+
+@media (max-width: 680px){
+   
+
+    .left, .right {
+        display: block;
+        width: calc(100% - 50px);
+        margin-left: auto;
+        margin-right: 50px;
+        text-align: justify;
+        
+    }
+    
+    .left img, .right img{
+        width: 25%;
+    }
+    
+    .bottom{
+        display: block;
+        width: calc(100% - 50px);
+        margin-left: auto;
+        margin-right: 50px;
+        text-align: justify;
+    }
+
+
+}
