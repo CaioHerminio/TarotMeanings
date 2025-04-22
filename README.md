@@ -20,6 +20,8 @@ The design uses responsive CSS, ensuring the page looks great across various scr
 
 This project is meant for practice and learning, where I wanted to apply **responsive design techniques** while incorporating **symbolism** and **storytelling** to present a deeper exploration of tarot.
 
-## 📸 Screenshot
+## 📸 Screenshots
 
-![Screenshot](./screenshot.PNG)
+![Screenshot](./screenshot01.PNG)
+![Screenshot](./screenshot02.PNG)
+![Screenshot](./screenshot03.PNG)
